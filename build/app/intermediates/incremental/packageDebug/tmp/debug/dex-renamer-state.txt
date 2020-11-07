@@ -1,0 +1,4 @@
+#Fri Nov 06 19:50:04 CST 2020
+base.0=C\:\\Users\\Amado\\Documents\\practica2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
